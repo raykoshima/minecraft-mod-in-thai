@@ -1,0 +1,322 @@
+{
+	"createaddition.tooltip.energy.stored": "พลังงานที่เก็บอยู่:",
+	"createaddition.tooltip.energy.capacity": "ความจุ:",
+	"createaddition.tooltip.energy.consumption": "การใช้พลังงาน:",
+	"createaddition.tooltip.energy.production": "พลังงานที่ผลิต:",
+	"createaddition.tooltip.energy.charged": "ชาร์จแล้ว",
+	"createaddition.tooltip.energy.usage": "จำนวนเน็ตเวิร์คที่ถูกใช้:",
+	"createaddition.tooltip.energy.demand": "จำนวนเน็ตเวิร์คที่ต้องการ:",
+	"createaddition.tooltip.energy.supply": "จำนวนเน็ตเวิร์คที่ผลิตได้:",
+	"createaddition.tooltip.energy.selected": "ตัวเชื่อมต่อที่เลือกอยู่:",
+	"createaddition.tooltip.energy.input": "อินพุต",
+	"createaddition.tooltip.energy.output": "เอาต์พุต",
+
+	"createaddition.tooltip.energy.mode": "โหมด:",
+	"createaddition.tooltip.energy.push": "จ่าย",
+	"createaddition.tooltip.energy.pull": "ดึง",
+	"createaddition.tooltip.energy.passive": "พาสซีฟ",
+	"createaddition.tooltip.energy.none": "ไม่มี",
+
+	"createaddition.tooltip.accumulator.info": "ข้อมูลของหม้อสะสมไฟฟ้า:",
+	"createaddition.tooltip.relay.info": "ข้อมูลของรีเลย์:",
+	"createaddition.tooltip.connector.info": "ข้อมูลของตัวเชื่อมต่อ:",
+
+	"createaddition.recipe.rolling": "เครื่องรีด",
+	"createaddition.recipe.rolling.sequence": "เครื่องรีด",
+	"createaddition.recipe.charging": "การชาร์จ",
+	"createaddition.recipe.liquid_burning": "การเผาไหม้ของเหลว",
+
+	"createaddition.recipe.liquid_burning.burn_time": "เวลาการเผาไหม้",
+
+	"createaddition.command.cca_api.link": "Click here to open API documentation",
+
+	"desc.immersiveengineering.info.mineral.sphalerite": "Sphalerite",
+
+	"item.createaddition.capacitor": "คาปาซิเตอร์",
+
+	"item.createaddition.diamond_grit": "กรวดเพชร",
+	"item.createaddition.diamond_grit_sandpaper": "กระดาษทรายกรวดเพชร",
+	"item.createaddition.diamond_grit_sandpaper.tooltip.summary": "สามารถใช้เพื่อ_เกลาวัสดุ_ สามารถทำอย่างอัตโนมัติโดยมือกลอัตโนมัติ",
+	"item.createaddition.diamond_grit_sandpaper.tooltip.condition1": "เมื่อใช้",
+	"item.createaddition.diamond_grit_sandpaper.tooltip.behaviour1": "จะทำการขัดเกลาให้กับไอเท็มที่ถืออยู่ใน_มือรอง_ หรือวางอยู่บน_พื้น_เมื่อ_มองไปที่มัน_",
+
+	"item.createaddition.zinc_sheet": "แผ่นสังกะสี",
+
+	"item.createaddition.copper_spool": "แกนสายไฟทองแดงม้วน",
+	"item.createaddition.copper_spool.tooltip": "แกนม้วน",
+	"item.createaddition.copper_spool.tooltip.summary": "ใช้สำหรับเก็บสายไฟ",
+	"item.createaddition.copper_spool.tooltip.condition1": "กระแสไฟฟ้าต่ำ",
+	"item.createaddition.copper_spool.tooltip.behaviour1": "เชื่อมต่อกับ _ตัวเชื่อมต่อกระแสไฟฟ้าต่ำ_",
+	"item.createaddition.copper_spool.tooltip.condition2": "คลิกขวาที่ตัวเชื่อมต่อสองตัว",
+	"item.createaddition.copper_spool.tooltip.behaviour2": "จะสร้างสายไฟที่เชื่อมต่อตัวเชื่อมเข้าด้วยกัน ใช้แล้วจะได้ _แกนม้วนเปล่า_ กลับมา",
+	"item.createaddition.copper_wire": "สายไฟทองแดง",
+	"item.createaddition.copper_rod": "ท้อนทองแดง",
+
+	"item.createaddition.festive_spool": "แกนสายไฟทองแดงม้วนพร้อมไฟประดับ",
+	"item.createaddition.festive_spool.tooltip": "แกนม้วน",
+	"item.createaddition.festive_spool.tooltip.summary": "ใช้สำหรับเก็บสายไฟ",
+	"item.createaddition.festive_spool.tooltip.condition1": "กระแสไฟฟ้าต่ำ",
+	"item.createaddition.festive_spool.tooltip.behaviour1": "เชื่อมต่อกับ _ตัวเชื่อมต่อกระแสไฟฟ้าต่ำ_",
+	"item.createaddition.festive_spool.tooltip.condition2": "คลิกขวาที่ตัวเชื่อมต่อสองตัว",
+	"item.createaddition.festive_spool.tooltip.behaviour2": "จะสร้างสายไฟที่เชื่อมต่อตัวเชื่อมเข้าด้วยกัน ใช้แล้วจะได้ _แกนม้วนเปล่า_ กลับมา",
+
+	"item.createaddition.iron_wire": "สายไฟเหล็ก",
+	"item.createaddition.iron_rod": "ท้อนเหล็ก",
+
+	"item.createaddition.gold_spool": "แกนสายไฟทองคำม้วน",
+	"item.createaddition.gold_spool.tooltip": "แกนม้วน",
+	"item.createaddition.gold_spool.tooltip.summary": "ใช้สำหรับเก็บสายไฟ",
+	"item.createaddition.gold_spool.tooltip.condition1": "กระแสไฟฟ้าแรงสูง",
+	"item.createaddition.gold_spool.tooltip.behaviour1": "เชื่อมต่อกับ _ตัวเชื่อมต่อกระแสไฟฟ้าแรงสูง_",
+	"item.createaddition.gold_spool.tooltip.condition2": "คลิกขวาที่ตัวเชื่อมต่อสองตัว",
+	"item.createaddition.gold_spool.tooltip.behaviour2": "จะสร้างสายไฟที่เชื่อมต่อตัวเชื่อมเข้าด้วยกัน ใช้แล้วจะได้ _แกนม้วนเปล่า_ กลับมา",
+	"item.createaddition.gold_wire": "สายไฟทองคำ",
+	"item.createaddition.gold_rod": "ท้อนทองคำ",
+
+	"item.createaddition.electrum_ingot": "แท่งอิเล็กตรัม",
+	"item.createaddition.electrum_nugget": "เศษอิเล็กตรัม",
+	"item.createaddition.electrum_sheet": "แผ่นอิเล็กตรัม",
+	"item.createaddition.electrum_spool": "แกนสายไฟอิเล็กตรัมม้วน",
+	"item.createaddition.electrum_spool.tooltip": "แกนม้วน",
+	"item.createaddition.electrum_spool.tooltip.summary": "ใช้สำหรับเก็บสายไฟ",
+	"item.createaddition.electrum_spool.tooltip.condition1": "กระแสไฟฟ้าสูง",
+	"item.createaddition.electrum_spool.tooltip.behaviour1": "เชื่อมต่อกับ _ตัวเชื่อมต่อกระแสไฟฟ้าสูง_",
+	"item.createaddition.electrum_spool.tooltip.condition2": "คลิกขวาที่ตัวเชื่อมต่อสองตัว",
+	"item.createaddition.electrum_spool.tooltip.behaviour2": "จะสร้างสายไฟที่เชื่อมต่อตัวเชื่อมเข้าด้วยกัน ใช้แล้วจะได้ _แกนม้วนเปล่า_ กลับมา",
+	"item.createaddition.electrum_wire": "สายไฟอิเล็กตรัม",
+	"item.createaddition.electrum_rod": "ท้อนอิเล็กตรัม",
+
+	"item.createaddition.brass_rod": "ท้อนทองเหลือง",
+	"item.createaddition.bronze_rod": "ท้อนบรอนซ์",
+
+	"item.createaddition.cake_base": "ฐานเค้ก",
+	"item.createaddition.cake_base_baked": "ฐานเค้กอบ",
+
+	"item.createaddition.straw": "หลอดดูด",
+
+	"item.createaddition.electrum_amulet": "เครื่องรางทองคำซีด",
+	"item.createaddition.electrum_amulet.tooltip": "ELECTRUM_AMULET",
+	"item.createaddition.electrum_amulet.tooltip.summary": "ถ้า_ชีวิต_มันแย่ การที่มี_เครื่องรางนี้_อยู่ในกระเป๋าทำให้รู้สึกว่า_โชค_ของคุณกำลังจะเปลี่ยนแปลง",
+
+	"item.createaddition.brass_figurine": "รูปปั้นทองเหลือง",
+	"item.createaddition.brass_figurine.tooltip": "BRASS_FIGURINE",
+	"item.createaddition.brass_figurine.tooltip.summary": ".",
+
+	"item.createaddition.copper_goblet": "ถ้วยทองแดง",
+	"item.createaddition.copper_goblet.tooltip": "COPPER_GOBLET",
+	"item.createaddition.copper_goblet.tooltip.summary": "ความสามารถในการถ่ายเทความร้อนที่ไม่ธรรมดาของ_ถ้วยนี้_จะทำให้คุณรู้สึกเย็นสบายเมื่อคุณต้องการมันมากที่สุด",
+
+	"item.createaddition.gold_goblet": "ถ้วยทองคำ",
+	"item.createaddition.gold_goblet.tooltip": "GOLD_GOBLET",
+	"item.createaddition.gold_goblet.tooltip.summary": "การดื่มจาก_ถ้วยนี้_จะทำให้คุณรู้สึกพอใจมากกว่าการดื่มจากขวดธรรมดาๆ",
+
+	"item.createaddition.seed_oil_bucket": "ถังน้ำมันเมล็ดพืช",
+	"item.createaddition.seed_oil_bucket.tooltip": "SEED_OIL_BUCKET",
+	"item.createaddition.seed_oil_bucket.tooltip.summary": "_ของเหลวไวไฟ_แบบพื้นฐาน",
+	"fluid.createaddition.seed_oil": "น้ำมันเมล็ดพืช",
+
+	"item.createaddition.bioethanol_bucket": "ถังเชื้อเพลิงชีวภาพ",
+	"item.createaddition.bioethanol_bucket.tooltip": "BIOETHANOL_BUCKET",
+	"item.createaddition.bioethanol_bucket.tooltip.summary": "_ของเหลวไวไฟ_ที่มีประสิทธิภาพ.",
+	"fluid.createaddition.bioethanol": "เชื้อเพลิงชีวภาพ",
+
+	"item.createaddition.biomass": "ชีวมวล",
+	"item.createaddition.biomass_pellet": "เม็ดชีวมวล",
+	"item.createaddition.biomass_pellet.tooltip": "BIOMASS_PELLET",
+	"item.createaddition.biomass_pellet.tooltip.summary": "_เชื้อเพลิงแข็ง_ที่มีพลังสูง.",
+
+	"item.createaddition.spool": "แกนเปล่า",
+	"item.createaddition.spool.nbt": "มีข้อมูลจุดเริ่มต้น",
+	"item.createaddition.spool.tooltip.summary": "ใช้สำหรับเก็บสายไฟ",
+	"item.createaddition.spool.tooltip.condition1": "คลิกขวาที่ตัวเชื่อมต่อสองตัว",
+	"item.createaddition.spool.tooltip.behaviour1": "จะเก็บสายไฟและได้ _แกน_ ที่มีสายไฟนั้น",
+
+	"statusbar.createaddition.wire.linked": "เชื่อมต่อเสร็จสิ้น",
+	"statusbar.createaddition.wire.linked_in": "สายถูกเชื่อมไปอินพุต",
+	"statusbar.createaddition.wire.linked_out": "สายถูกเชื่อมไปเอาต์พุต",
+
+	"statusbar.createaddition.wire.connect": "เลือกตัวเชื่อมสาย",
+	"statusbar.createaddition.wire.connect_in": "เลือกตัวเชื่อมสายอินพุต",
+	"statusbar.createaddition.wire.connect_out": "เลือกตัวเชื่อมสายเอาต์พุต",
+
+	"statusbar.createaddition.wire.long": "สายยาวเกินไป",
+	"statusbar.createaddition.wire.count": "พื้นที่ตัวเชื่อมสายเต็มแล้ว",
+	"statusbar.createaddition.wire.removed": "เก็บสายไฟแล้ว",
+	"statusbar.createaddition.wire.exists": "การเชื่อมต่อสายไฟเส้นนี้มีอยู่แล้ว",
+	"statusbar.createaddition.wire.no_connection": "สายไฟที่เลือกไม่ได้เชื่อมต่อกับที่นี่",
+	"statusbar.createaddition.wire.invalid": "การเชื่อมต่อไม่ถูกต้อง",
+	"statusbar.createaddition.wire.requires_high_current": "การเชื่อมต่อนี้ต้องการสายไฟฟ้าแรงสูง",
+
+	"block.createaddition.electric_motor": "มอเตอร์ไฟฟ้า",
+
+	"block.createaddition.alternator": "เครื่องปั่นไฟ",
+
+	"block.createaddition.creative_energy": "เครื่องปั่นไฟโหมดสร้างสรรค์",
+	"block.createaddition.creative_energy.tooltip": "CREATIVE_GENERATOR",
+	"block.createaddition.creative_energy.tooltip.summary": "สร้างไฟฟ้าแบบไม่มีจำกัด _⚡_",
+
+	"block.createaddition.rolling_mill": "เครื่องรีด",
+
+	"block.createaddition.accumulator": "หม้อสะสมไฟฟ้า",
+	"block.createaddition.accumulator.tooltip": "ACCUMULATOR",
+	"block.createaddition.accumulator.tooltip.summary": "สะสมประจุไฟฟ้า _⚡_. _เลิกใช้และอาจถูกลบออกจากการอัปเดตในอนาคต_",
+	"block.createaddition.accumulator.tooltip.condition1": "ดึง",
+	"block.createaddition.accumulator.tooltip.behaviour1": "จ่าย _⚡_ ให้กับ _สายไฟ_ ที่เชื่อมต่อกับ _ตัวเชื่อม_ ที่มีลูกศรชี้ขึ้น",
+	"block.createaddition.accumulator.tooltip.condition2": "ผลัก",
+	"block.createaddition.accumulator.tooltip.behaviour2": "รับ _⚡_ จาก _สายไฟ_ ที่เชื่อมต่อกับ _ตัวเชื่อม_ ที่มีลูกศรชี้ลง",
+
+	"block.createaddition.modular_accumulator": "หม้อสะสมไฟฟ้า",
+
+	"block.createaddition.portable_energy_interface": "หน้าเชื่อมต่อไฟฟ้าเคลื่อนที่",
+
+	"block.createaddition.connector": "ตัวเชื่อมขนาดเล็ก",
+	"block.createaddition.connector.tooltip": "CONNECTOR",
+	"block.createaddition.connector.tooltip.summary": "เชื่อมต่อ_ไฟฟ้า_เข้ากับบล็อกที่รองรับ_ไฟฟ้า_เพื่อถ่ายโอน _⚡_",
+	"block.createaddition.connector.tooltip.condition1": "กระแสไฟฟ้าต่ำ",
+	"block.createaddition.connector.tooltip.behaviour1": "เชื่อมต่อกับ _สายไฟกระแสไฟฟ้าต่ำ_",
+	"block.createaddition.connector.tooltip.condition2": "คลิกขวา",
+	"block.createaddition.connector.tooltip.behaviour2": "ในขณะที่ถือ _แกนสายไฟทองแดงม้วน_, _แกนสายไฟทองคำม้วน_, หรือ _แกนสายไฟอิเล็กตรัมม้วน_ เพื่อเชื่อม_สายไฟ_กับตัวเชื่อมอื่นๆ ได้สูงสุด 4 ตัว",
+	"block.createaddition.connector.tooltip.condition3": "คลิกขวาพร้อมกับประแจ",
+	"block.createaddition.connector.tooltip.behaviour3": "เพื่อเปลี่ยนระหว่างโหมด _จ่าย_, _ดึง_, และ _ไม่มี_",
+
+	"block.createaddition.small_light_connector": "ตัวเชื่อมขนาดเล็กพร้อมไฟ",
+	"block.createaddition.small_light_connector.tooltip": "CONNECTOR",
+	"block.createaddition.small_light_connector.tooltip.summary": "เชื่อมต่อ_ไฟฟ้า_เข้ากับบล็อกที่รองรับ_ไฟฟ้า_เพื่อถ่ายโอน _⚡_ และให้แสงสว่างเมื่อได้รับพลังงาน",
+	"block.createaddition.small_light_connector.tooltip.condition1": "กระแสไฟฟ้าต่ำ",
+	"block.createaddition.small_light_connector.tooltip.behaviour1": "เชื่อมต่อกับ _สายไฟกระแสไฟฟ้าต่ำ_",
+	"block.createaddition.small_light_connector.tooltip.condition2": "คลิกขวา",
+	"block.createaddition.small_light_connector.tooltip.behaviour2": "ในขณะที่ถือ _แกนสายไฟทองแดงม้วน_, _แกนสายไฟทองคำม้วน_, หรือ _แกนสายไฟอิเล็กตรัมม้วน_ เพื่อเชื่อม_สายไฟ_กับตัวเชื่อมอื่นๆ ได้สูงสุด 4 ตัว",
+	"block.createaddition.small_light_connector.tooltip.condition3": "คลิกขวาพร้อมกับประแจ",
+	"block.createaddition.small_light_connector.tooltip.behaviour3": "เพื่อเปลี่ยนระหว่างโหมด _จ่าย_, _ดึง_, และ _ไม่มี_",
+
+	"block.createaddition.large_connector": "ตัวเชื่อมขนาดใหญ่",
+	"block.createaddition.large_connector.tooltip": "CONNECTOR",
+	"block.createaddition.large_connector.tooltip.summary": "เชื่อมต่อ_ไฟฟ้า_เข้ากับบล็อกที่รองรับ_ไฟฟ้า_เพื่อถ่ายโอน _⚡_",
+	"block.createaddition.large_connector.tooltip.condition1": "กระแสไฟฟ้าสูง",
+	"block.createaddition.large_connector.tooltip.behaviour1": "เชื่อมต่อกับ _สายไฟกระแสไฟฟ้าสูง_.",
+	"block.createaddition.large_connector.tooltip.condition2": "คลิกขวา",
+	"block.createaddition.large_connector.tooltip.behaviour2": "ในขณะที่ถือ_แกนสายไฟทองคำม้วน_, หรือ _แกนสายไฟอิเล็กตรัมม้วน_ เพื่อเชื่อม_สายไฟ_กับตัวเชื่อมอื่นๆ ได้สูงสุด 6 ตัว",
+	"block.createaddition.large_connector.tooltip.condition3": "คลิกขวาพร้อมกับประแจ",
+	"block.createaddition.large_connector.tooltip.behaviour3": "เพื่อเปลี่ยนระหว่างโหมด _จ่าย_, _ดึง_, และ _ไม่มี_",
+
+	"block.createaddition.redstone_relay": "Redstone Relay",
+	"block.createaddition.redstone_relay.tooltip": "REDSTONE_RELAY",
+	"block.createaddition.redstone_relay.tooltip.summary": "Allows _⚡_ to pass from the _input connector_ to the _output connector_ when receiving a _redstone signal_.",
+	"block.createaddition.redstone_relay.tooltip.condition1": "Low Current",
+	"block.createaddition.redstone_relay.tooltip.behaviour1": "Connected with _low current wires_.",
+	"block.createaddition.redstone_relay.tooltip.condition2": "Pull",
+	"block.createaddition.redstone_relay.tooltip.behaviour2": "Provides _⚡_ to _wires_ connected to the _connector_ marked with a upwards arrow.",
+	"block.createaddition.redstone_relay.tooltip.condition3": "Push",
+	"block.createaddition.redstone_relay.tooltip.behaviour3": "Accepts _⚡_ from _wires_ connected to the _connector_ marked with a downwards arrow.",
+
+	"block.createaddition.digital_adapter": "Digital Adapter",
+	"block.createaddition.digital_adapter.tooltip": "DIGITAL_ADAPTER",
+	"block.createaddition.digital_adapter.tooltip.summary": "A _Computercraft Peripheral_ which allows computers to interface with _Display Boards_, _Speedometers_, _Stressometers_, _Rope Pulley_, _Hose Pulley_, _Elevator Pulley_, _Mechanical Piston_, _Mechanical Bearing_, and _Rotational Speed Controllers_.",
+
+	"block.createaddition.chocolate_cake": "Chocolate Cake",
+	"block.createaddition.honey_cake": "Honey Cake",
+
+	"block.createaddition.electrum_block": "Electrum Block",
+
+	"block.createaddition.biomass_pellet_block": "Biomass Pallet",
+
+	"block.createaddition.seed_oil": "Seed Oil",
+	"block.createaddition.bioethanol": "Bioethanol",
+
+	"block.createaddition.barbed_wire": "Barbed Wire",
+	"block.createaddition.barbed_wire.tooltip": "BARBED_WIRE",
+	"block.createaddition.barbed_wire.tooltip.summary": "Inflicts damage when walked through.",
+
+	"block.createaddition.tesla_coil": "Tesla Coil",
+
+	"block.createaddition.liquid_blaze_burner": "Blaze Burner with Straw",
+
+	"itemGroup.createaddition.main":"Create Crafts & Additions",
+
+	"createaddition.ponder.tag.electric": "Electric Appliances",
+	"createaddition.ponder.tag.electric.description": "Components which use electricity",
+
+	"createaddition.ponder.electric_motor.header": "Generating Rotational Force using Electric Motors",
+	"createaddition.ponder.electric_motor.text_1": "Electric Motors are a compact and configurable source of Rotational Force",
+	"createaddition.ponder.electric_motor.text_2": "Scrolling on the back panel changes the RPM of the motor's rotational output",
+	"createaddition.ponder.electric_motor.text_3": "The Electric Motor requires a source of energy",
+	"createaddition.ponder.electric_motor.text_4": "The motor's energy consumption is determined by the set RPM",
+
+	"createaddition.ponder.alternator.header": "Generating Electric energy using an Alternator",
+	"createaddition.ponder.alternator.text_1": "The Alternator requires at least 32 RPM to operate",
+	"createaddition.ponder.alternator.text_2": "It generates electric energy from rotational force",
+	"createaddition.ponder.alternator.text_3": "Its energy production is determined by the input RPM",
+
+	"createaddition.ponder.rolling_mill.header": "Rolling metals into Rods and Wires",
+	"createaddition.ponder.rolling_mill.text_1": "The Rolling Mill uses rotational force to roll metals into Rods and Wires",
+	"createaddition.ponder.rolling_mill.text_2": "To manually input items, drop Ingots or Plates on the top of the Mill",
+	"createaddition.ponder.rolling_mill.text_3": "Right-click the Mill to manually retrieve the output items",
+
+	"createaddition.ponder.automated_rolling_mill.header": "Automating the Rolling Mill",
+	"createaddition.ponder.automated_rolling_mill.text_1": "The Rolling Mill can be automated using a Belt and two Funnels",
+	"createaddition.ponder.automated_rolling_mill.text_2": "Input Funnel",
+	"createaddition.ponder.automated_rolling_mill.text_3": "Output Funnel",
+
+	"createaddition.ponder.cc_electric_motor.header": "Using ComputerCraft to control an Electric Motor",
+	"createaddition.ponder.cc_electric_motor.text_1": "The Electric Motor can be controlled using ComputerCraft",
+	"createaddition.ponder.cc_electric_motor.text_2": "Connect to the motor using 'peripheral.wrap(side)'",
+	"createaddition.ponder.cc_electric_motor.text_3": "Get to the API documentation by issuing the command '/cca_api' in the chat",
+
+	"createaddition.ponder.tesla_coil.header": "Using a Tesla Coil to charge Items",
+	"createaddition.ponder.tesla_coil.text_1": "The Tesla Coil will charge Items below it",
+	"createaddition.ponder.tesla_coil.text_2": "It will charge any Forge Energy Items and more!",
+
+	"createaddition.ponder.tesla_coil_hurt.header": "Dangerous Tesla Coils",
+	"createaddition.ponder.tesla_coil_hurt.text_1": "The Tesla Coil is also able to inflict damage on nearby Players and Mobs",
+	"createaddition.ponder.tesla_coil_hurt.text_2": "This can be activated with a Redstone signal",
+	"createaddition.ponder.tesla_coil_hurt.text_3": "Prepare to be Shocked!",
+
+	"createaddition.ponder.liquid_blaze_burner.header": "Liquid Fuel Burning",
+	"createaddition.ponder.liquid_blaze_burner.text_1": "Giving the Blaze Burner a Straw",
+	"createaddition.ponder.liquid_blaze_burner.text_2": "will allow it to accept liquid fuels by Buckets",
+	"createaddition.ponder.liquid_blaze_burner.text_3": "- or by pipes.",
+
+	"createaddition.ponder.modular_accumulator.header": "The Multi-block Accumulator",
+	"createaddition.ponder.modular_accumulator.text_1": "The Accumulator is a multi-block structure",
+	"createaddition.ponder.modular_accumulator.text_2": "It can store large amounts of electric energy",
+	"createaddition.ponder.modular_accumulator.text_3": "Configure an input connector",
+	"createaddition.ponder.modular_accumulator.text_4": "and an output connector.",
+	"createaddition.ponder.modular_accumulator.text_5": "To improve mod compatibility, the Accumulator will actively push energy to blocks placed on the top and bottom faces.",
+
+	"createaddition.display_source.digital_adapter_source": "Digital Adapter",
+	"createaddition.display_source.digital_adapter_source_digital_adapter": "Digital Adapter",
+	"createaddition.display_source.modular_accumulator": "Accumulator",
+	"createaddition.display_source.accumulator.progress_bar": "Progress Bar",
+	"createaddition.display_source.accumulator.percent": "Percentage",
+	"createaddition.display_source.accumulator.current": "Energy Stored in ⚡",
+	"createaddition.display_source.accumulator.max": "Total Capacity",
+	"createaddition.display_source.accumulator.remaining": "Remaining ⚡",
+	"createaddition.display_source.accumulator.display": "Choose an Option:",
+
+	"createaddition.ponder.pei_transfer.header": "Contraption Energy Exchange",
+	"createaddition.ponder.pei_transfer.text_1": "Accumulators on moving contraptions cannot connect to stationary connectors.",
+	"createaddition.ponder.pei_transfer.text_2": "This component can interact with Accumulators without the need to stop the contraption.",
+	"createaddition.ponder.pei_transfer.text_3": "Place a second one with a gap of 1 or 2 blocks inbetween",
+	"createaddition.ponder.pei_transfer.text_4": "Whenever they pass by each other, they will engage in a connection",
+	"createaddition.ponder.pei_transfer.text_5": "While engaged, the stationary interface will represent ALL Accumulators on the contraption",
+	"createaddition.ponder.pei_transfer.text_6": "Energy can now be exchanged according to the Push/Pull configuration of the connector...",
+	"createaddition.ponder.pei_transfer.text_7": "After no energy have been exchanged for a while, the contraption will continue on its way.",
+
+	"createaddition.ponder.pei_redstone.header": "Redstone Control",
+	"createaddition.ponder.pei_redstone.text_1": "Redstone power will prevent the stationary interface from engaging.",
+
+	"createaddition.schedule.condition.energy_threshold": "Energy Cargo Condition",
+	"createaddition.schedule.condition.threshold.unit": "K⚡",
+	"createaddition.schedule.condition.threshold.energy": "Energy",
+
+	"death.attack.barbed_wire": "%1$s tried to cross barbed wire",
+  	"death.attack.barbed_wire.player": "%1$s tried to cross barbed wire while fighting %2$s",
+
+	"effect.createaddition.shocking":"Shocked",
+	"death.attack.tesla_coil": "%1$s received a lethal electric shock",
+  	"death.attack.tesla_coil.player": "%1$s received a lethal electric shock while fighting %2$s",
+  	"effect.createaddition.shocking.description": "Causes severely reduced movement speed",
+
+	"createaddition.subtitle.loud_zap": "Tesla Coil zaps",
+	"createaddition.subtitle.little_zap": "Tesla Coil sparks"
+}
