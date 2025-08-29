@@ -2741,7 +2741,7 @@
   "item.create.refined_radiance": "ความแจ่มจรัสสกัดกลั่น",
   "item.create.rose_quartz": "โรสควอตซ์",
   "item.create.sand_paper": "กระดาษทราย",
-  "item.create.sand_paper.tooltip.behaviour1": "ขัดไอเทมที่ถือใน_มือรอง_หรืออยู่บน_พื้น_และกำลัง_ถูกมอง_",
+  "item.create.sand_paper.tooltip.behaviour1": "จะทำการขัดเกลาให้กับไอเท็มที่ถืออยู่ใน_มือรอง_ หรือวางอยู่บน_พื้น_เมื่อ_มองไปที่มัน_",
   "item.create.sand_paper.tooltip.condition1": "เมื่อใช้",
   "item.create.sand_paper.tooltip.summary": "สามารถใช้เพื่อ_เกลาวัสดุ_ สามารถทำอย่างอัตโนมัติโดยมือกลอัตโนมัติ",
   "item.create.schedule": "กำหนดการรถไฟ",
