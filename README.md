@@ -14,9 +14,9 @@ This repository is dedicated to translating Minecraft mods and modpack (that I p
 
 ## 📦 Modpack  
 
-| Modpack   | Source                                                              | Status | Download |
-|-----------|---------------------------------------------------------------------|--------|------|
-| Beyond The Horizon | [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)Curseforge](https://www.curseforge.com/minecraft/modpacks/bth-beyond-the-horizon) | ⏳ Translating | Click Here |
+| Modpack   | Source                                                              | Modpack version | Status | Download |
+|-----------|---------------------------------------------------------------------|--------|--------|------|
+| Beyond The Horizon | [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)Curseforge](https://www.curseforge.com/minecraft/modpacks/bth-beyond-the-horizon) | 1.9 | ⏳ Translating | Click Here |
 
 ---
 
@@ -64,9 +64,9 @@ repo นี้สร้างขึ้นเพื่อแปล Minecraft mods
 
 ## 📦 Modpack  
 
-| Modpack   | แหล่งที่มา                                                          | สถานะ | ดาวน์โหลด |
-|-----------|---------------------------------------------------------------------|--------|------|
-| Beyond The Horizon | [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)Curseforge](https://www.curseforge.com/minecraft/modpacks/bth-beyond-the-horizon) | ⏳ กำลังแปล | คลิกที่นี่ |
+| Modpack   | แหล่งที่มา                                                          | เวอร์ชั่น modpack | สถานะ | ดาวน์โหลด |
+|-----------|---------------------------------------------------------------------|--------|--------|------|
+| Beyond The Horizon | [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)Curseforge](https://www.curseforge.com/minecraft/modpacks/bth-beyond-the-horizon) | 1.9 | ⏳ กำลังแปล | คลิกที่นี่ |
 
 ---
 
