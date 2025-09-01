@@ -1,0 +1,7 @@
+{
+  "pack":{
+    "description":"Create mod Thai lang",
+    "pack_format":15,
+    "supported_formats":[0,99],
+  }
+}
